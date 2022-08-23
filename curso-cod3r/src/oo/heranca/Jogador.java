@@ -1,4 +1,4 @@
-package oo.herança;
+package oo.heranca;
 
 public class Jogador {
 	int x;
